@@ -37,7 +37,7 @@ The dashboard tracks and highlights the following key metrics:
 ## 🖼️ Dashboard Preview
 *(Tip: Take a screenshot of your Power BI report dashboard, upload it to your GitHub repository, and replace the placeholder link below to showcase your work!)*
 
-![Dashboard Screenshot](Screenshot%20(65).png)
+![Dashboard Screenshot](Screenshot 2026-06-05 182159.png)
 
 ---
 
